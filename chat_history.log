@@ -1,0 +1,199 @@
+2025-01-08 13:01:37,853 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-08 13:04:04,342 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-08 13:04:13,376 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:04:13,405 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:04:13,754 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:04:13,755 - {"timestamp": "2025-01-08T13:04:13.755106", "role": "human", "content": "hey", "additional_kwargs": {}}
+2025-01-08 13:04:13,756 - {"timestamp": "2025-01-08T13:04:13.756109", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:04:13,756 - {"timestamp": "2025-01-08T13:04:13.756109", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:04:13,756 - {"timestamp": "2025-01-08T13:04:13.756109", "role": "ai", "content": "Hello! Welcome to Vermac, our cozy coffee cafe. I'm Echo, your friendly receptionist. How can I help you today? Would you like a warm cup of coffee or some festive cheer to get you in the holiday spirit?", "additional_kwargs": {}}
+2025-01-08 13:04:21,029 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:04:21,063 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:04:21,486 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:04:21,487 - {"timestamp": "2025-01-08T13:04:21.487408", "role": "human", "content": "how are you", "additional_kwargs": {}}
+2025-01-08 13:04:21,487 - {"timestamp": "2025-01-08T13:04:21.487408", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:04:21,487 - {"timestamp": "2025-01-08T13:04:21.487408", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:04:21,487 - {"timestamp": "2025-01-08T13:04:21.487408", "role": "ai", "content": "I'm doing great, thanks for asking! It's the most wonderful time of the year - Christmas festival is in full swing here at Vermac! We're buzzing with excitement and festive cheer. How about you? Would you like to warm up with a cup of our special holiday blend?", "additional_kwargs": {}}
+2025-01-08 13:04:31,914 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:04:31,948 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:04:32,250 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:04:32,251 - {"timestamp": "2025-01-08T13:04:32.251743", "role": "human", "content": "what is your name", "additional_kwargs": {}}
+2025-01-08 13:04:32,251 - {"timestamp": "2025-01-08T13:04:32.251743", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:04:32,251 - {"timestamp": "2025-01-08T13:04:32.251743", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:04:32,251 - {"timestamp": "2025-01-08T13:04:32.251743", "role": "ai", "content": "I'm Echo, the friendly receptionist at Vermac, a cozy coffee cafe! It's a pleasure to meet you. Would you like to warm up with a cup of our special holiday blend?", "additional_kwargs": {}}
+2025-01-08 13:20:47,060 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:20:47,093 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:20:47,714 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:20:47,715 - {"timestamp": "2025-01-08T13:20:47.715164", "role": "human", "content": "do you speak french", "additional_kwargs": {}}
+2025-01-08 13:20:47,715 - {"timestamp": "2025-01-08T13:20:47.715164", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:20:47,715 - {"timestamp": "2025-01-08T13:20:47.715164", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:20:47,715 - {"timestamp": "2025-01-08T13:20:47.715164", "role": "ai", "content": "Bonjour! Oui, nous parlons un peu de fran\u00e7ais au caf\u00e9 Vermac. Nous avons quelques menus et affichages en fran\u00e7ais pour nous aider \u00e0 accueillir nos clients francophones. Mais ne vous inqui\u00e9tez pas si vous ne parlez pas fran\u00e7ais, nous sommes l\u00e0 pour vous aider avec tout ce que vous avez besoin ! (Don't worry if you don't speak French, we're here to help with anything you need!)", "additional_kwargs": {}}
+2025-01-08 13:21:13,485 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:21:13,521 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:21:13,774 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:21:13,775 - {"timestamp": "2025-01-08T13:21:13.775832", "role": "human", "content": "c'est quoi ton nom", "additional_kwargs": {}}
+2025-01-08 13:21:13,775 - {"timestamp": "2025-01-08T13:21:13.775832", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:21:13,775 - {"timestamp": "2025-01-08T13:21:13.775832", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:21:13,776 - {"timestamp": "2025-01-08T13:21:13.776345", "role": "ai", "content": "Bonjour ! Je m'appelle Echo, et je suis ravi de vous accueillir au Vermac caf\u00e9 ! Comment puis-je vous aider aujourd'hui ?", "additional_kwargs": {}}
+2025-01-08 13:21:56,677 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:21:56,714 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:21:56,980 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:21:56,981 - {"timestamp": "2025-01-08T13:21:56.981774", "role": "human", "content": "c'est quoi ton nom", "additional_kwargs": {}}
+2025-01-08 13:21:56,981 - {"timestamp": "2025-01-08T13:21:56.981774", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:21:56,981 - {"timestamp": "2025-01-08T13:21:56.981774", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:21:56,981 - {"timestamp": "2025-01-08T13:21:56.981774", "role": "ai", "content": "Bonjour ! Je m'appelle Echo, et je suis ravi de vous accueillir au Vermac caf\u00e9 ! Comment puis-je vous aider aujourd'hui ?", "additional_kwargs": {}}
+2025-01-08 13:22:08,042 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:22:08,075 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:22:08,701 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:22:08,702 - {"timestamp": "2025-01-08T13:22:08.702169", "role": "human", "content": "do you speak arabic", "additional_kwargs": {}}
+2025-01-08 13:22:08,702 - {"timestamp": "2025-01-08T13:22:08.702169", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:22:08,702 - {"timestamp": "2025-01-08T13:22:08.702169", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:22:08,702 - {"timestamp": "2025-01-08T13:22:08.702169", "role": "ai", "content": "I can try to communicate in Arabic, but please keep in mind that I'm a machine learning model, and my proficiency may not be perfect.\n\nIf you'd like to chat with me in Arabic, I can respond accordingly. However, if you have any specific questions or need assistance with something, feel free to ask, and I'll do my best to help!\n\nBy the way, would you like a warm cup of coffee to get into the holiday spirit?", "additional_kwargs": {}}
+2025-01-08 13:24:32,993 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:24:33,027 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:24:33,518 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:24:33,520 - {"timestamp": "2025-01-08T13:24:33.520458", "role": "human", "content": "do you speak arabic", "additional_kwargs": {}}
+2025-01-08 13:24:33,520 - {"timestamp": "2025-01-08T13:24:33.520458", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:24:33,520 - {"timestamp": "2025-01-08T13:24:33.520458", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:24:33,520 - {"timestamp": "2025-01-08T13:24:33.520458", "role": "ai", "content": "I can try to help with basic phrases in Arabic, but I'm not fluent. If you need assistance with a specific phrase or conversation, I'd be happy to try and help.\n\nFor example, I can say \"\u0645\u0631\u062d\u0628\u0627\" (marhaba) which means \"hello\". Would you like me to try and help with something else?", "additional_kwargs": {}}
+2025-01-08 13:24:37,492 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:24:37,520 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:24:37,879 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:24:37,880 - {"timestamp": "2025-01-08T13:24:37.880351", "role": "human", "content": "hey", "additional_kwargs": {}}
+2025-01-08 13:24:37,880 - {"timestamp": "2025-01-08T13:24:37.880351", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:24:37,880 - {"timestamp": "2025-01-08T13:24:37.880351", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:24:37,880 - {"timestamp": "2025-01-08T13:24:37.880351", "role": "ai", "content": "Hello! Welcome to Vermac, our cozy coffee cafe. I'm Keven, your friendly receptionist. How can I help you today? Would you like a warm cup of coffee or some festive cheer to get you in the holiday spirit?", "additional_kwargs": {}}
+2025-01-08 13:24:51,746 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:24:51,775 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:24:52,143 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:24:52,144 - {"timestamp": "2025-01-08T13:24:52.144377", "role": "human", "content": "hey", "additional_kwargs": {}}
+2025-01-08 13:24:52,144 - {"timestamp": "2025-01-08T13:24:52.144377", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:24:52,144 - {"timestamp": "2025-01-08T13:24:52.144377", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:24:52,144 - {"timestamp": "2025-01-08T13:24:52.144377", "role": "ai", "content": "Hello! Welcome to Vermac, our cozy coffee cafe. I'm Keven, your friendly receptionist. How can I help you today? Would you like a warm cup of coffee or some festive cheer to get you in the holiday spirit?", "additional_kwargs": {}}
+2025-01-08 13:29:26,272 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:29:26,302 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:29:26,748 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:29:26,749 - {"timestamp": "2025-01-08T13:29:26.749323", "role": "human", "content": "fdsfds", "additional_kwargs": {}}
+2025-01-08 13:29:26,749 - {"timestamp": "2025-01-08T13:29:26.749836", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:29:26,749 - {"timestamp": "2025-01-08T13:29:26.749836", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:29:26,749 - {"timestamp": "2025-01-08T13:29:26.749836", "role": "ai", "content": "It seems like you just sent a random string of characters. If you could provide more context or clarify what you're looking for, I'd be happy to try and assist you.\n\nIf you meant to ask a question about our coffee cafe, Vermac, please feel free to ask and I'll do my best to help!", "additional_kwargs": {}}
+2025-01-08 13:29:31,669 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:29:31,698 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:29:32,056 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:29:32,057 - {"timestamp": "2025-01-08T13:29:32.057941", "role": "human", "content": "dfsfsd", "additional_kwargs": {}}
+2025-01-08 13:29:32,057 - {"timestamp": "2025-01-08T13:29:32.057941", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:29:32,057 - {"timestamp": "2025-01-08T13:29:32.057941", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:29:32,057 - {"timestamp": "2025-01-08T13:29:32.057941", "role": "ai", "content": "It seems like you've entered some random characters. Can you please rephrase your question or provide more context so I can assist you better? If you're looking for information about our coffee cafe, Vermac, I'd be happy to help with that!", "additional_kwargs": {}}
+2025-01-08 13:34:22,592 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:34:22,621 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:34:22,856 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:34:22,857 - {"timestamp": "2025-01-08T13:34:22.857926", "role": "human", "content": "hey", "additional_kwargs": {}}
+2025-01-08 13:34:22,857 - {"timestamp": "2025-01-08T13:34:22.857926", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:34:22,857 - {"timestamp": "2025-01-08T13:34:22.857926", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:34:22,857 - {"timestamp": "2025-01-08T13:34:22.857926", "role": "ai", "content": "Hello! Welcome to Vermac, our cozy coffee cafe. How can I assist you today? Would you like to order a drink or ask about our menu?", "additional_kwargs": {}}
+2025-01-08 13:34:41,387 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:34:41,416 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:34:41,658 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:34:41,659 - {"timestamp": "2025-01-08T13:34:41.659487", "role": "human", "content": "hey", "additional_kwargs": {}}
+2025-01-08 13:34:41,659 - {"timestamp": "2025-01-08T13:34:41.659487", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:34:41,659 - {"timestamp": "2025-01-08T13:34:41.659487", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:34:41,659 - {"timestamp": "2025-01-08T13:34:41.659487", "role": "ai", "content": "Hello! Welcome to Vermac, our cozy coffee cafe. How can I assist you today? Would you like to order a drink or ask about our menu?", "additional_kwargs": {}}
+2025-01-08 13:36:46,553 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:36:46,584 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:36:46,840 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:36:46,841 - {"timestamp": "2025-01-08T13:36:46.841034", "role": "human", "content": "hey", "additional_kwargs": {}}
+2025-01-08 13:36:46,841 - {"timestamp": "2025-01-08T13:36:46.841549", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:36:46,841 - {"timestamp": "2025-01-08T13:36:46.841549", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:36:46,841 - {"timestamp": "2025-01-08T13:36:46.841549", "role": "ai", "content": "Hello! Welcome to Vermac, our cozy coffee cafe. How can I assist you today? Would you like to order a drink or ask about our menu?", "additional_kwargs": {}}
+2025-01-08 13:37:01,202 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:37:01,240 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:37:01,547 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:37:01,548 - {"timestamp": "2025-01-08T13:37:01.548444", "role": "human", "content": "hi", "additional_kwargs": {}}
+2025-01-08 13:37:01,548 - {"timestamp": "2025-01-08T13:37:01.548444", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:37:01,548 - {"timestamp": "2025-01-08T13:37:01.548444", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:37:01,548 - {"timestamp": "2025-01-08T13:37:01.548444", "role": "ai", "content": "Hello! Welcome to Vermac, our cozy coffee cafe. I'm Keven, your receptionist today. How can I help you? Would you like to order a cup of coffee or ask about our menu?", "additional_kwargs": {}}
+2025-01-08 13:38:27,710 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:38:27,738 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:38:28,045 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:38:28,047 - {"timestamp": "2025-01-08T13:38:28.047078", "role": "human", "content": "hi", "additional_kwargs": {}}
+2025-01-08 13:38:28,047 - {"timestamp": "2025-01-08T13:38:28.047078", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:38:28,047 - {"timestamp": "2025-01-08T13:38:28.047078", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:38:28,047 - {"timestamp": "2025-01-08T13:38:28.047078", "role": "ai", "content": "Hello! Welcome to Vermac, our cozy coffee cafe. I'm Keven, your receptionist today. How can I help you? Would you like to order a cup of coffee or ask about our menu?", "additional_kwargs": {}}
+2025-01-08 13:38:33,939 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:38:33,973 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:38:34,329 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:38:34,330 - {"timestamp": "2025-01-08T13:38:34.330790", "role": "human", "content": "how are you", "additional_kwargs": {}}
+2025-01-08 13:38:34,330 - {"timestamp": "2025-01-08T13:38:34.330790", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:38:34,330 - {"timestamp": "2025-01-08T13:38:34.330790", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:38:34,330 - {"timestamp": "2025-01-08T13:38:34.330790", "role": "ai", "content": "I'm doing well, thank you for asking! We're a busy cafe here at Vermac, but I'm happy to help with any questions or concerns you may have. Would you like to know more about our menu options or perhaps make an order?", "additional_kwargs": {}}
+2025-01-08 13:38:40,677 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:38:40,721 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:38:41,066 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:38:41,067 - {"timestamp": "2025-01-08T13:38:41.067950", "role": "human", "content": "what is your name", "additional_kwargs": {}}
+2025-01-08 13:38:41,067 - {"timestamp": "2025-01-08T13:38:41.067950", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:38:41,067 - {"timestamp": "2025-01-08T13:38:41.067950", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:38:41,067 - {"timestamp": "2025-01-08T13:38:41.067950", "role": "ai", "content": "My name is Keven, and I'm the receptionist here at Vermac, a cozy coffee cafe. It's nice to meet you! How can I help you today? Would you like to order a drink or ask about our menu?", "additional_kwargs": {}}
+2025-01-08 13:38:49,409 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:38:49,442 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:38:50,022 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:38:50,023 - {"timestamp": "2025-01-08T13:38:50.023150", "role": "human", "content": "what is vermac", "additional_kwargs": {}}
+2025-01-08 13:38:50,023 - {"timestamp": "2025-01-08T13:38:50.023150", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:38:50,023 - {"timestamp": "2025-01-08T13:38:50.023150", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:38:50,023 - {"timestamp": "2025-01-08T13:38:50.023150", "role": "ai", "content": "At Vermac, we're a cozy coffee cafe where you can relax and enjoy a great cup of coffee. We offer a variety of specialty drinks, pastries, and light bites to satisfy your cravings. Our friendly baristas are always happy to help you with any questions or recommendations. Whether you're looking for a quick pick-me-up or a relaxing spot to catch up with friends, Vermac is the perfect place to be!", "additional_kwargs": {}}
+2025-01-08 13:39:36,195 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-08 13:39:41,706 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:39:41,737 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:39:41,866 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:39:41,867 - {"timestamp": "2025-01-08T13:39:41.867296", "role": "human", "content": "hi", "additional_kwargs": {}}
+2025-01-08 13:39:41,867 - {"timestamp": "2025-01-08T13:39:41.867296", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:39:41,867 - {"timestamp": "2025-01-08T13:39:41.867296", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:39:41,867 - {"timestamp": "2025-01-08T13:39:41.867296", "role": "ai", "content": "Hello! Welcome to Vermac. How can I assist you today?", "additional_kwargs": {}}
+2025-01-08 13:39:49,110 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:39:49,143 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:39:49,301 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:39:49,302 - {"timestamp": "2025-01-08T13:39:49.302078", "role": "human", "content": "parle tu francais", "additional_kwargs": {}}
+2025-01-08 13:39:49,302 - {"timestamp": "2025-01-08T13:39:49.302078", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:39:49,302 - {"timestamp": "2025-01-08T13:39:49.302078", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:39:49,302 - {"timestamp": "2025-01-08T13:39:49.302078", "role": "ai", "content": "The translation of \"parle-tu fran\u00e7ais\" in English is \"Do you speak French?\"", "additional_kwargs": {}}
+2025-01-08 13:40:00,736 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:40:00,770 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:40:01,471 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:40:01,472 - {"timestamp": "2025-01-08T13:40:01.472004", "role": "human", "content": "do you speak french", "additional_kwargs": {}}
+2025-01-08 13:40:01,472 - {"timestamp": "2025-01-08T13:40:01.472004", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:40:01,472 - {"timestamp": "2025-01-08T13:40:01.472004", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:40:01,472 - {"timestamp": "2025-01-08T13:40:01.472004", "role": "ai", "content": "At Vermac, we offer multilingual support to cater to our diverse clients. While French is not a native language for all of our staff, we have a team member who speaks fluent French.\n\nIf you need assistance in French, please feel free to contact us, and we will do our best to provide you with the help you require. However, please note that our response may be translated through automated tools, and the level of fluency may vary.\n\nWould you like me to call a specialist who speaks French for further assistance?", "additional_kwargs": {}}
+2025-01-08 13:40:07,566 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:40:07,599 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:40:08,186 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:40:08,188 - {"timestamp": "2025-01-08T13:40:08.188290", "role": "human", "content": "yes", "additional_kwargs": {}}
+2025-01-08 13:40:08,188 - {"timestamp": "2025-01-08T13:40:08.188290", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:40:08,188 - {"timestamp": "2025-01-08T13:40:08.188290", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:40:08,188 - {"timestamp": "2025-01-08T13:40:08.188290", "role": "ai", "content": "It seems like you've asked for a search query, but I didn't receive any specific question from you. Could you please rephrase or provide more context so I can assist you better?\n\nIf you meant to ask something and then responded with \"yes\", I'd be happy to try and help you with whatever was on your mind. Please feel free to share the original question, and I'll do my best to provide a helpful response.", "additional_kwargs": {}}
+2025-01-08 13:40:22,647 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:40:22,680 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:40:23,692 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:40:23,693 - {"timestamp": "2025-01-08T13:40:23.693299", "role": "human", "content": "what is vermac", "additional_kwargs": {}}
+2025-01-08 13:40:23,693 - {"timestamp": "2025-01-08T13:40:23.693299", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:40:23,693 - {"timestamp": "2025-01-08T13:40:23.693812", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:40:23,693 - {"timestamp": "2025-01-08T13:40:23.693812", "role": "ai", "content": "It seems I don't have the most up-to-date information on Vermac in my database. However, I can suggest some possible options to help you find the answer:\n\n1. Check our website: You can visit our official website at [www.vermac.com](http://www.vermac.com) for more information about Vermac.\n2. Contact us directly: If you have any specific questions or concerns, feel free to reach out to me directly via phone or email.\n3. Search online: You can try searching for \"Vermac\" on your favorite search engine to find more information.\n\nIf you could provide more context or clarify what Vermac refers to (e.g., a company, store, etc.), I'd be happy to try and assist you further!", "additional_kwargs": {}}
+2025-01-08 13:45:23,419 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:45:23,451 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:45:24,663 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:45:24,663 - {"timestamp": "2025-01-08T13:45:24.663917", "role": "human", "content": "what is a bot", "additional_kwargs": {}}
+2025-01-08 13:45:24,663 - {"timestamp": "2025-01-08T13:45:24.663917", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:45:24,663 - {"timestamp": "2025-01-08T13:45:24.663917", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:45:24,663 - {"timestamp": "2025-01-08T13:45:24.663917", "role": "ai", "content": "A bot, also known as a robot or software application, is a computer program that operates automatically without human intervention. Bots can be designed to perform various tasks, such as:\n\n* Answering questions and providing information\n* Automating repetitive tasks\n* Interacting with users through chat or voice commands\n* Monitoring and controlling systems\n* Gathering data and performing analysis\n\nBots can be found in many areas, including customer service, social media, messaging apps, and even online games. They are often used to improve efficiency, reduce costs, and enhance user experience.\n\nFor example, a customer service bot might be programmed to respond to frequently asked questions, provide basic support, and escalate complex issues to human representatives. A social media bot might be designed to schedule posts, engage with users, and monitor conversations.\n\nOverall, bots are an increasingly important part of many industries and can help streamline processes, improve accuracy, and enhance customer experience.", "additional_kwargs": {}}
+2025-01-08 13:50:08,291 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:50:08,327 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:50:08,591 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:50:08,592 - {"timestamp": "2025-01-08T13:50:08.592951", "role": "human", "content": "hello im ISmail, what is your name", "additional_kwargs": {}}
+2025-01-08 13:50:08,592 - {"timestamp": "2025-01-08T13:50:08.592951", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:50:08,592 - {"timestamp": "2025-01-08T13:50:08.592951", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:50:08,592 - {"timestamp": "2025-01-08T13:50:08.592951", "role": "ai", "content": "Hello Ismail! My name is Keven, and I'm a receptionist here at Vermac. It's nice to meet you! How can I assist you today?", "additional_kwargs": {}}
+2025-01-08 13:50:46,585 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:50:46,616 - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-01-08 13:50:48,950 - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-08 13:50:48,951 - {"timestamp": "2025-01-08T13:50:48.951066", "role": "human", "content": "who is justin trudeau", "additional_kwargs": {}}
+2025-01-08 13:50:48,951 - {"timestamp": "2025-01-08T13:50:48.951066", "role": "ai", "content": "", "additional_kwargs": {}}
+2025-01-08 13:50:48,951 - {"timestamp": "2025-01-08T13:50:48.951066", "role": "tool", "content": "", "additional_kwargs": {}}
+2025-01-08 13:50:48,951 - {"timestamp": "2025-01-08T13:50:48.951066", "role": "ai", "content": "Justin Trudeau is the 23rd Prime Minister of Canada, serving since November 2015. He is a member of the Liberal Party and has been a prominent figure in Canadian politics for over two decades.\n\nTrudeau was born on December 25, 1971, in Ottawa, Ontario, Canada. He comes from a family of politicians, with his mother, Margaret Trudeau, being a former Prime Minister's wife, and his father, Pierre Trudeau, serving as the 15th Prime Minister of Canada from 1968 to 1979.\n\nTrudeau has been a Member of Parliament (MP) for the riding of Papineau in Quebec since 2008. He was first elected as the leader of the Liberal Party in 2013 and won the federal election in 2015, becoming the Prime Minister of Canada at the age of 43.\n\nDuring his tenure as Prime Minister, Trudeau has focused on issues such as climate change, diversity, and inclusion. He has also been a strong advocate for LGBTQ+ rights and has taken steps to promote reconciliation with Indigenous peoples.\n\nTrudeau's government has implemented several policies aimed at reducing greenhouse gas emissions and promoting clean energy. He has also introduced measures to improve access to healthcare and education, as well as to support small businesses and entrepreneurs.\n\nHowever, Trudeau's tenure has not been without controversy. He has faced criticism for his handling of the SNC-Lavalin affair, a scandal involving the Quebec-based engineering firm SNC-Lavalin and its dealings with the government. He has also faced backlash for his response to the COVID-19 pandemic and for his government's handling of Indigenous issues.\n\nDespite these challenges, Trudeau remains a popular figure in Canadian politics, known for his charisma and his commitment to progressive values.", "additional_kwargs": {}}
