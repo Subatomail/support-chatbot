@@ -1,0 +1,65 @@
+# IF OLLAMA IS INSTALLED LOCALY
+
+version: '3.9'
+name: streamlit-only
+services:
+  streamlit:
+    image: python:3.9-slim
+    ports:
+      - '8501:8501'
+    networks:
+      - internal-net
+    volumes:
+      - ./app:/app
+      - python-deps:/root/.cache/pip
+    working_dir: /app
+    environment:
+      OLLAMA_HOST: host.docker.internal  # Refers to your local machine from inside Docker
+      OLLAMA_PORT: 11434  # Default Ollama port
+    command: bash -c "pip install -r requirements.txt && streamlit run main.py"
+    restart: unless-stopped
+
+networks:
+  internal-net:
+    driver: bridge
+
+volumes:
+  python-deps: {}
+
+
+# IF OLLAMA ISNT INSTALLED LOCALY
+
+# version: '3.9'
+# name: streamlit-ollama
+# services:
+#   streamlit:
+#     image: python:3.9-slim
+#     ports:
+#       - '8501:8501'
+#     networks:
+#       - internal-net
+#     volumes:
+#       - ./app:/app
+#       - python-deps:/root/.cache/pip
+#     working_dir: /app
+#     environment:
+#       OLLAMA_HOST: ollama  # Docker service name
+#       OLLAMA_PORT: 11434   # Default Ollama port
+#     command: bash -c "pip install -r requirements.txt && streamlit run main.py"
+#     restart: unless-stopped
+
+#   ollama:
+#     image: ollama/ollama:latest
+#     networks:
+#       - internal-net
+#     volumes:
+#       - ollama_models:/root/.ollama/models
+#     restart: unless-stopped
+
+# networks:
+#   internal-net:
+#     driver: bridge
+
+# volumes:
+#   python-deps: {}
+#   ollama_models: {}
