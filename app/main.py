@@ -25,9 +25,9 @@ logger = logging.getLogger(__name__)
 # -------------------------
 embedding_llm = OllamaEmbeddings(model="llama3.2")
 db = Chroma(
-    persist_directory='./chroma',
+    persist_directory="C:\\Users\\porka\\Desktop\\CHATBOT\\support-chatbot\\app\\chroma",
     embedding_function=embedding_llm,
-    collection_name="vermac"  # change this to what you need
+    collection_name="vermac-support"
 )
 
 retriever_tool = create_retriever_tool(
